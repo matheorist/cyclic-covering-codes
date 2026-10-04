@@ -7,6 +7,8 @@ manuscript
 
 submitted to the *Journal of Combinatorial Optimization*.
 
+Repository: <https://github.com/matheorist/cyclic-covering-codes>
+
 The five ZIP archives are distributed as the release assets for the dated
 release `2026-10-04`:
 
@@ -25,4 +27,3 @@ The release assets are large compressed archives. Users should download the
 assets rather than clone them into the Git history. The SHA-256 values and
 resource descriptions are recorded in the release notes and in the manifests
 inside the archives.
-
